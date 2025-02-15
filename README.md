@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: a null object reference error when accessing the length property of a TextField object's text property. The error occurs when the text property is null, resulting in a runtime error.  The solution involves checking for null before accessing the text property.
